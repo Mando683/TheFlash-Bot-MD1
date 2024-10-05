@@ -25,10 +25,10 @@ let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `⎔⋅• ━ ╼╃ ⌬〔﷽〕⌬ ╄╾ ━ •⋅⎔
-> TheFlash-Bot-MD
+> Themando-Bot-MD
 > 〔القـسـم الاسـلامـي┊ ˼‏ 🕋˹ 〕↶
 *⎔⋅ ╼╃ ⊰ •﹝⚡﹞• ⊱ ╄╾ ⋅⎔*
-           *فلاش بــ🤖ــوت*
+           *ماندو بــ🤖ــوت*
 *⎔⋅ ╼╃ ⊰ •﹝⚡﹞• ⊱ ╄╾ ⋅⎔*
 > 🕋.اذان
 > 🕋.حديث
